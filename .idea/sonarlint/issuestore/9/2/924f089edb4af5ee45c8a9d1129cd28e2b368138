@@ -1,0 +1,29 @@
+
+D
+java:S2189%""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ú…Ã­2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8â…Ã­2
+r	java:S106"+Replace this use of System.out by a logger.(Üìæüÿÿÿÿ8ºå„Ã­2J$6ec978b4-745f-47bb-84f1-c270ca5ebd0e
+m	java:S106"+Replace this use of System.out by a logger.(ŠèÓÖ8»å„Ã­2J$e99d77c5-ce8d-4060-a985-fb88c6e27963
+m	java:S106"+Replace this use of System.out by a logger.(°àşÄ8¼å„Ã­2J$aefb6be4-da93-48a7-8bbe-e0b6f07ce560
+F	java:S106"+Replace this use of System.out by a logger.(¿´Š=8ç…Ã­2
+L	java:S106!"+Replace this use of System.out by a logger.(ï°Îıÿÿÿÿ8ì…Ã­2
+G	java:S106&"+Replace this use of System.out by a logger.(¾ÿĞ‰8í…Ã­2
+L	java:S106*"+Replace this use of System.out by a logger.(î£ë²úÿÿÿÿ8î…Ã­2
+>	java:S1310""Add a default case to this switch.(¨ÕÉ8ñ…Ã­2
+F	java:S106I"+Replace this use of System.out by a logger.(Êµ¢8õ…Ã­2
+L	java:S106K"+Replace this use of System.out by a logger.(‚×†Õüÿÿÿÿ8õ…Ã­2
+G	java:S106R"+Replace this use of System.out by a logger.(Í×Í8÷…Ã­2
+G	java:S106Y"+Replace this use of System.out by a logger.(¨Í³8ø…Ã­2
+L	java:S106^"+Replace this use of System.out by a logger.(Å„É„şÿÿÿÿ8ı…Ã­2
+L	java:S106c"+Replace this use of System.out by a logger.(çÌóëøÿÿÿÿ8ÿ…Ã­2
+G	java:S106q"+Replace this use of System.out by a logger.(öÓ˜„8‚‚…Ã­2
+L	java:S106t"+Replace this use of System.out by a logger.(Å„É„şÿÿÿÿ8‚‚…Ã­2
+F	java:S106y"+Replace this use of System.out by a logger.(Øü½n8„‚…Ã­2
+M	java:S106…"+Replace this use of System.out by a logger.(†·×Åûÿÿÿÿ8ˆ‚…Ã­2
+M	java:S106‡"+Replace this use of System.out by a logger.(äÿ †øÿÿÿÿ8‰‚…Ã­2
+M	java:S106–"+Replace this use of System.out by a logger.(­…ãøûÿÿÿÿ8‚…Ã­2
+M	java:S106˜"+Replace this use of System.out by a logger.(»ƒâ™ûÿÿÿÿ8‚…Ã­2
+H	java:S106"+Replace this use of System.out by a logger.(Ò†ŸÆ8’‚…Ã­2
+ã
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 69 to 64, Complexity from 15 to 14, Nesting Level from 3 to 2, Number of Variables from 14 to 6.(Çµí‘8“‚…Ã­2
